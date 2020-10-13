@@ -1,5 +1,5 @@
 Skill-up Record
-===============
+---------------
 - 1 Linguistics
 - 1 Lock-picking
 - 4 Pistol
