@@ -12,5 +12,7 @@ Characters:
 
 Deviations:
 - Moved from v1.0 to v1.1 after session 1 (2020-10-12)
+- Using [The Yokai Bestiary][2] in place of the generic Yōkai Foe, if or when I encounter them.
 
 [1]: https://blackoathgames.com/seekers-beyond-the-shroud
+[2]: https://eeriespace.github.io/2020/03/22/the-yokai-bestiary-for-seekers-beyond-the-shroud/
