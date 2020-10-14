@@ -1,6 +1,6 @@
 Character Notes
 ---------------
-Current HP: 230
+Current HP: 130
 Current Vril: 140
 Sanity lost at Site: 0
 Current Sanity loss streak: 9/25
