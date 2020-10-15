@@ -16,3 +16,14 @@ Activity Log
   - Obtained a Ritual Dagger, Hunter's Knife, Glock 17, Light Kevlar.
   - Skill-up'd One-Handed Melee to 51.
   - Fled due to being clearly outclassed.
+
+### 2020-10-14
+- G visited the Omphalos (D:19, R:5), the Siddha are present.
+  - Quelled rumor of cowardice successfully.
+  - Sold loot for 500ø, bought 2 bandages for 100ø.
+  - Approched the Siddha representative and accepted their mission (M: 18 - Ancient Aspatial Vestige in the Remote Labyrinth)
+- G went on the Sidhha's Spirit Pact Mission successfully.
+  - Defeated a Lost and an Illuh.
+  - Learned the Astral Spell Encase from an errant soul.
+  - Lost 5 Sanity wandering the Abyss.
+  - Persuaded the Siddhite Vestige to form a pact, gaining 500ø, 150 Favor, and 10 Order.

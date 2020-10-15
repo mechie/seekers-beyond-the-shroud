@@ -9,4 +9,9 @@ Skill-up Record
 - 4 First Aid
 - 2 Perception
 - 1 Find Cover
-- 1 Meditation
+- 2 Meditation
+- 2 Appraisal
+- 2 Psychic Offense
+- 2 Psychic Defense
+- 2 Knowledge of the Astral
+- 2 Persuasion
