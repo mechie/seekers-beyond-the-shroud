@@ -10,7 +10,7 @@ Activity Log
   - Obtained Omphale's Embrace.
 
 ### 2020-10-13
-- G visited the Omphalos, no Orders present.
+- G visited the Omphalos (D:15, R:3), no Orders present.
 - G went through an Investigation Scenario: House, failed due to abandoning.
   - Killed an Ichorite and a Hunter.
   - Obtained a Ritual Dagger, Hunter's Knife, Glock 17, Light Kevlar.
