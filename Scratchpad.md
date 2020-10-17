@@ -1,6 +1,6 @@
 Character Notes
 ---------------
-- Current HP: 2
+- Current HP: 130
 - Current SP: 140
 - Current VP: 140
 - Sanity lost at Site: 0
@@ -44,4 +44,4 @@ monstrosity attacks!
 
 Foes
 ----
-Chimera 19
+
