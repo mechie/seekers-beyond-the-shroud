@@ -2,11 +2,11 @@ Skill-up Record
 ---------------
 - 1 Linguistics
 - 1 Lock-picking
-- 1 Pistol
-- 1 Parry
-- 1 One-Handed Melee
+- 2 Pistol
+- 2 Parry
+- 2 One-Handed Melee
 - 1 Dodge
-- 4 First Aid
+- 0 First Aid
 - 2 Perception
 - 1 Find Cover
 - 2 Meditation
@@ -15,3 +15,5 @@ Skill-up Record
 - 2 Psychic Defense
 - 2 Knowledge of the Astral
 - 2 Persuasion
+- 1 Throwing
+

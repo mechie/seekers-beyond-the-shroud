@@ -1,6 +1,6 @@
 Character Notes
 ---------------
-- Current HP: 130
+- Current HP: 2
 - Current SP: 140
 - Current VP: 140
 - Sanity lost at Site: 0
@@ -10,7 +10,6 @@ Character Notes
 
 Effects:
 - Omphale's Blessing: +25 non-stunning damage to every successful attack
-- Light Kevlar: -5/-3 damage from each ranged/melee attack received
 
 Talents:
 - Retreat: Roll above the enemy’s DEX to retreat from combat, but suffer an automatic hit.
@@ -22,8 +21,7 @@ Equipment:
 - #1 "Trusty" revolver (2d10+10) (+10 TH)
 - #1 Ivory Dagger of Bocchus (2d20 Earth damage)
 - #1 Hunter's Knife (d10+15, 5 VP)
-- #4 Light Kevlar (5 DR)
-- 2 bandages (Consumable, +10% to one First Aid roll)
+- 1 bandages (Consumable, +10% to one First Aid roll)
 - Box of caffeine pills
 - First aid supplies
 - Slim crowbar
@@ -38,8 +36,12 @@ At the flat:
 
 Site/Misc. Notes
 ----------------
-
+One of Causa Scientiae's experiments has broken loose!
+A part deer, part eagle, part worm creature stands in
+your way, and it doesn't look friendly.
+Use the Failed Chimera enemy profile as the
+monstrosity attacks!
 
 Foes
 ----
-
+Chimera 19
