@@ -1,12 +1,12 @@
 Character Notes
 ---------------
-Current HP: 130
-Current SP: 140
-Current VP: 140
-Sanity lost at Site: 0
-Current Sanity loss streak: 14/25
-Last loss of Sanity: 2020-10-14
-Last weekly Meditation attempt: 2020-10-13
+- Current HP: 130
+- Current SP: 140
+- Current VP: 140
+- Sanity lost at Site: 0
+- Current Sanity loss streak: 14/25
+- Last loss of Sanity: 2020-10-14
+- Last weekly Meditation attempt: 2020-10-13
 
 Effects:
 - Omphale's Blessing: +25 non-stunning damage to every successful attack
