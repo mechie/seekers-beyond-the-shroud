@@ -33,3 +33,12 @@ Activity Log
   - Ethan Vanderpool explains what Bhuta are, asks for their tongues if encountered.
   - G fights a Failed Chimera on his way to visit a representative. Light Kevlar is destroyed, a bandage is used up to stop the Bleeding, and G is left at 2HP.
   - G meets with a CAVSASCIENTIAE representative, but does not ask for a Mission, electing to call it a day.
+
+### 2020-10-16
+- G visited the Omphalos (D:9 R:3), CAVSASCIENTIAE present.
+  - Exchanged 100VP for 100ø from a fellow adept.
+  - Approached the CAVSASCIENTIAE representative and accepted their mission (M: 14 - Veteran, Thick Skulled, Brutal, Educated and Polite, Order, Religious Cultist in the Sewers & City Tunnels).
+- G went on on the CAVSASCIENTIAE's Revenge Mission, failed due to abandoning.
+  - Killed an Ichorite and a Veteran Disarming Ichorite.
+  - Obtained 2 Ritual Daggers.
+  - Lost 50 Favor.

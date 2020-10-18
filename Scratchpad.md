@@ -14,14 +14,14 @@ Effects:
 Talents:
 - Retreat: Roll above the enemy’s DEX to retreat from combat, but suffer an automatic hit.
 
-Gear carried (#n items): 3/14
+Gear carried (#n items): 5/14
 
 Equipment:
-- 900ø
+- 950ø
 - #1 "Trusty" revolver (2d10+10) (+10 TH)
 - #1 Ivory Dagger of Bocchus (2d20 Earth damage)
 - #1 Hunter's Knife (d10+15, 5 VP)
-- 1 bandages (Consumable, +10% to one First Aid roll)
+- 2 bandages (Consumable, +10% to one First Aid roll)
 - Box of caffeine pills
 - First aid supplies
 - Slim crowbar
@@ -30,6 +30,8 @@ Equipment:
 - Mini-LED flashlight
 
 Carried, to sell:
+- #1 Ritual Dagger (d10+15)
+- #1 Ritual Dagger (d10+15)
 
 At the flat:
 - #1 K-bar Knife (1d10+15)
