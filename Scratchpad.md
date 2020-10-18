@@ -14,7 +14,7 @@ Effects:
 Talents:
 - Retreat: Roll above the enemy’s DEX to retreat from combat, but suffer an automatic hit.
 
-Gear carried (#n items): 9/14
+Gear carried (#n items): 3/14
 
 Equipment:
 - 900ø
@@ -36,11 +36,7 @@ At the flat:
 
 Site/Misc. Notes
 ----------------
-One of Causa Scientiae's experiments has broken loose!
-A part deer, part eagle, part worm creature stands in
-your way, and it doesn't look friendly.
-Use the Failed Chimera enemy profile as the
-monstrosity attacks!
+
 
 Foes
 ----

@@ -16,4 +16,3 @@ Skill-up Record
 - 2 Knowledge of the Astral
 - 2 Persuasion
 - 1 Throwing
-

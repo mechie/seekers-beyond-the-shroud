@@ -29,7 +29,7 @@ Activity Log
   - Persuaded the Siddhite Vestige to form a pact, gaining 500ø, 150 Favor, and 10 Order.
 
 ### 2020-10-15
-- G visited the Omphalos (D:12, R:), CAVSASCIENTIAE and the Mesu-Betesh are present.
+- G visited the Omphalos (D:12, R:9), CAVSASCIENTIAE and the Mesu-Betesh are present.
   - Ethan Vanderpool explains what Bhuta are, asks for their tongues if encountered.
   - G fights a Failed Chimera on his way to visit a representative. Light Kevlar is destroyed, a bandage is used up to stop the Bleeding, and G is left at 2HP.
   - G meets with a CAVSASCIENTIAE representative, but does not ask for a Mission, electing to call it a day.
