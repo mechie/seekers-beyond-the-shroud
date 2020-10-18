@@ -8,7 +8,7 @@ Played as time allows, with the timeline never extending beyond the present day.
 Phases of the Moon correspond to the game's astrological mechanics, not real life's.
 
 Characters:
-- G (2020-10-12 to Present)
+- G (2020-10-12 to 2020-10-17)
 
 Deviations:
 - Moved from v1.0 to v1.1 after session 1 (2020-10-12)
