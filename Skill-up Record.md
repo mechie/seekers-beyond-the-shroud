@@ -3,16 +3,17 @@ Skill-up Record
 - 1 Linguistics
 - 1 Lock-picking
 - 4 Pistol
-- 4 Parry
-- 4 One-Handed Melee
+- 5 Parry
+- 5 One-Handed Melee
 - 1 Dodge
 - 2 First Aid
 - 2 Perception
-- 1 Find Cover
+- 2 Find Cover
 - 2 Meditation
-- 2 Appraisal
+- 4 Appraisal
 - 2 Psychic Offense
 - 2 Psychic Defense
 - 2 Knowledge of the Astral
 - 2 Persuasion
 - 1 Throwing
+- 2 Sneaking

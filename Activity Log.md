@@ -42,3 +42,11 @@ Activity Log
   - Killed an Ichorite and a Veteran Disarming Ichorite.
   - Obtained 2 Ritual Daggers.
   - Lost 50 Favor.
+
+### 2020-10-17
+- G visited the Omphalos (D:2, R:7), CAVSASCIENTIAE present.
+  - Snuck away from a Vodou Zombie on the way to the Omphalos.
+  - Sold loot for 200ø, bought a Howlite crystal from Ethan Vanderpool for 1100ø.
+  - Approached the CAVSASCIENTIAE representative and accepted their mission (M: 16 - Abandoned Complex).
+- G went on the CAVSASCIENTIAE's Search Mission, failed due to dying.
+  - Killed by a Veteran Armored Street Tough.
